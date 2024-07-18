@@ -3,7 +3,7 @@ This program is about Deep-Q-learning implementation for lunar landing in which 
 Steps to Implement Deep Q-Learning for Lunar Landing
 
 Setup the Environment:
-Install OpenAI Gym and other necessary libraries.
+Install Gymnasium and other necessary libraries.
 Initialize the Lunar Lander environment.
 
 Define the Neural Network:
